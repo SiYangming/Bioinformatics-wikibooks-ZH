@@ -1,0 +1,961 @@
+Cell,Type,Value
+E18_3_C06,AT1 Cell(Lung),0.440984952757026
+E18_3_C06,AT2 Cell(Lung),0.301044310789369
+E18_3_C06,Alveolar bipotent progenitor(Lung),0.300432928981677
+E18_3_C06,Epithelial Cells(Lung-Mesenchyme),0.277852443467256
+E18_3_C06,Ciliated cell(Lung),0.270470615226497
+E18_3_C06,Clara Cell(Lung),0.253318751200152
+E18_3_C06,Epithelial cell_Sftpc high(Fetal_Lung),0.239684098186392
+E18_3_C06,Stromal cell_Inmt high(Lung),0.236590330062954
+E18_3_C06,Dividing cells(Lung),0.229243531001771
+E18_3_C06,Stromal cell_Aspn high(Lung-Mesenchyme),0.214161763942157
+E18_3_C06,Stromal cell_Inmt high(Lung-Mesenchyme),0.209366302718282
+E18_3_C06,Ependymocytes(Arc-Me),0.197997728894667
+E18_2_C88,AT1 Cell(Lung),0.424299541898671
+E18_2_C88,Alveolar bipotent progenitor(Lung),0.314935707723568
+E18_2_C88,AT2 Cell(Lung),0.301857894664555
+E18_2_C88,Epithelial Cells(Lung-Mesenchyme),0.273208849610584
+E18_2_C88,Ciliated cell(Lung),0.255707796026782
+E18_2_C88,Clara Cell(Lung),0.253810111248218
+E18_2_C88,Epithelial cell_Sftpc high(Fetal_Lung),0.235018660310479
+E18_2_C88,Stromal cell_Inmt high(Lung),0.233412631903747
+E18_2_C88,Dividing cells(Lung),0.230378343702318
+E18_2_C88,Stromal cell_Inmt high(Lung-Mesenchyme),0.209013161275684
+E18_2_C88,Stromal cell_Aspn high(Lung-Mesenchyme),0.198792654012216
+E18_2_C88,Ependymocytes(Arc-Me),0.149558796092615
+E18_1_C67,AT1 Cell(Lung),0.455739675365746
+E18_1_C67,Alveolar bipotent progenitor(Lung),0.324406588175313
+E18_1_C67,AT2 Cell(Lung),0.311042824972204
+E18_1_C67,Epithelial Cells(Lung-Mesenchyme),0.274817045264501
+E18_1_C67,Clara Cell(Lung),0.259357657868682
+E18_1_C67,Ciliated cell(Lung),0.256396795139042
+E18_1_C67,Epithelial cell_Sftpc high(Fetal_Lung),0.244518106765039
+E18_1_C67,Dividing cells(Lung),0.243200496385796
+E18_1_C67,Stromal cell_Inmt high(Lung),0.227407214280571
+E18_1_C67,Stromal cell_Inmt high(Lung-Mesenchyme),0.215668843967936
+E18_1_C67,Stromal cell_Aspn high(Lung-Mesenchyme),0.206344019218215
+E18_1_C67,Ependymocytes(Arc-Me),0.163612114487939
+E18_2_C20,AT1 Cell(Lung),0.45234171579552
+E18_2_C20,Alveolar bipotent progenitor(Lung),0.325802937810935
+E18_2_C20,AT2 Cell(Lung),0.309571595129944
+E18_2_C20,Ciliated cell(Lung),0.269633619187374
+E18_2_C20,Epithelial cell_Sftpc high(Fetal_Lung),0.264179135804015
+E18_2_C20,Clara Cell(Lung),0.260359627220382
+E18_2_C20,Dividing cells(Lung),0.234720889025146
+E18_2_C20,Epithelial Cells(Lung-Mesenchyme),0.232484550905574
+E18_2_C20,Stromal cell_Inmt high(Lung),0.224786655178057
+E18_2_C20,Stromal cell_Aspn high(Lung-Mesenchyme),0.191759305700663
+E18_2_C20,Stromal cell_Inmt high(Lung-Mesenchyme),0.182264795837936
+E18_2_C20,Ependymocytes(Arc-Me),0.17479429004469
+E18_1_C38,AT1 Cell(Lung),0.448983019183771
+E18_1_C38,Alveolar bipotent progenitor(Lung),0.321589051332265
+E18_1_C38,AT2 Cell(Lung),0.312003043682504
+E18_1_C38,Clara Cell(Lung),0.30278437733348
+E18_1_C38,Ciliated cell(Lung),0.281287111381141
+E18_1_C38,Epithelial Cells(Lung-Mesenchyme),0.261454653701701
+E18_1_C38,Dividing cells(Lung),0.24286914120104
+E18_1_C38,Stromal cell_Inmt high(Lung),0.23329114365067
+E18_1_C38,Epithelial cell_Sftpc high(Fetal_Lung),0.227433408021548
+E18_1_C38,Stromal cell_Aspn high(Lung-Mesenchyme),0.206494847103516
+E18_1_C38,Stromal cell_Inmt high(Lung-Mesenchyme),0.197307653352356
+E18_1_C38,Ependymocytes(Arc-Me),0.147373017751538
+E18_1_C50,AT1 Cell(Lung),0.429776087241445
+E18_1_C50,Alveolar bipotent progenitor(Lung),0.328087400819974
+E18_1_C50,AT2 Cell(Lung),0.317633397353589
+E18_1_C50,Clara Cell(Lung),0.295710377957331
+E18_1_C50,Ciliated cell(Lung),0.28990713879344
+E18_1_C50,Epithelial cell_Sftpc high(Fetal_Lung),0.273375767899195
+E18_1_C50,Epithelial Cells(Lung-Mesenchyme),0.259920419578409
+E18_1_C50,Dividing cells(Lung),0.249698336519303
+E18_1_C50,Stromal cell_Inmt high(Lung),0.235515855128853
+E18_1_C50,Stromal cell_Aspn high(Lung-Mesenchyme),0.199399547050317
+E18_1_C50,Stromal cell_Inmt high(Lung-Mesenchyme),0.192433836084729
+E18_1_C50,Ependymocytes(Arc-Me),0.15925367277508
+E18_2_C13,AT1 Cell(Lung),0.397618557031729
+E18_2_C13,Alveolar bipotent progenitor(Lung),0.302548775861159
+E18_2_C13,AT2 Cell(Lung),0.291498639859721
+E18_2_C13,Clara Cell(Lung),0.244782935017524
+E18_2_C13,Epithelial Cells(Lung-Mesenchyme),0.240360195037921
+E18_2_C13,Ciliated cell(Lung),0.239850202723496
+E18_2_C13,Epithelial cell_Sftpc high(Fetal_Lung),0.232565691383827
+E18_2_C13,Dividing cells(Lung),0.220558739358499
+E18_2_C13,Stromal cell_Inmt high(Lung),0.213812966781044
+E18_2_C13,Stromal cell_Inmt high(Lung-Mesenchyme),0.19988848898383
+E18_2_C13,Stromal cell_Aspn high(Lung-Mesenchyme),0.182230829832103
+E18_2_C13,Ependymocytes(Arc-Me),0.151334578062937
+E18_1_C84,AT1 Cell(Lung),0.415912159434517
+E18_1_C84,Alveolar bipotent progenitor(Lung),0.297345713343945
+E18_1_C84,AT2 Cell(Lung),0.282614576380822
+E18_1_C84,Epithelial cell_Sftpc high(Fetal_Lung),0.26682099325223
+E18_1_C84,Epithelial Cells(Lung-Mesenchyme),0.264159341568711
+E18_1_C84,Clara Cell(Lung),0.228284704641173
+E18_1_C84,Dividing cells(Lung),0.226404865013474
+E18_1_C84,Stromal cell_Inmt high(Lung),0.225817628493653
+E18_1_C84,Ciliated cell(Lung),0.222732201690965
+E18_1_C84,Stromal cell_Inmt high(Lung-Mesenchyme),0.197523927048924
+E18_1_C84,Stromal cell_Aspn high(Lung-Mesenchyme),0.186789216498598
+E18_1_C84,Ependymocytes(Arc-Me),0.168816304863347
+E18_2_C59,AT1 Cell(Lung),0.414879930057878
+E18_2_C59,Alveolar bipotent progenitor(Lung),0.308221069094813
+E18_2_C59,AT2 Cell(Lung),0.302553592147574
+E18_2_C59,Epithelial Cells(Lung-Mesenchyme),0.271961633964972
+E18_2_C59,Stromal cell_Inmt high(Lung),0.252094615598455
+E18_2_C59,Epithelial cell_Sftpc high(Fetal_Lung),0.252075368130572
+E18_2_C59,Ciliated cell(Lung),0.236901840229102
+E18_2_C59,Dividing cells(Lung),0.234918178155997
+E18_2_C59,Stromal cell_Inmt high(Lung-Mesenchyme),0.231360603226525
+E18_2_C59,Stromal cell_Aspn high(Lung-Mesenchyme),0.231064957809897
+E18_2_C59,Clara Cell(Lung),0.229996416772549
+E18_2_C59,Ependymocytes(Arc-Me),0.173584660958454
+E18_2_C90,AT1 Cell(Lung),0.43591691614609
+E18_2_C90,Alveolar bipotent progenitor(Lung),0.316920636060466
+E18_2_C90,AT2 Cell(Lung),0.312123570968152
+E18_2_C90,Epithelial cell_Sftpc high(Fetal_Lung),0.295867787181711
+E18_2_C90,Epithelial Cells(Lung-Mesenchyme),0.29578605915584
+E18_2_C90,Dividing cells(Lung),0.252300690137436
+E18_2_C90,Clara Cell(Lung),0.244140825569493
+E18_2_C90,Ciliated cell(Lung),0.237310913477489
+E18_2_C90,Stromal cell_Inmt high(Lung),0.236769072438828
+E18_2_C90,Stromal cell_Aspn high(Lung-Mesenchyme),0.218214534224376
+E18_2_C90,Stromal cell_Inmt high(Lung-Mesenchyme),0.21801154852654
+E18_2_C90,Ependymocytes(Arc-Me),0.151224798406931
+E18_2_C26,AT1 Cell(Lung),0.442043824540751
+E18_2_C26,Alveolar bipotent progenitor(Lung),0.330784796893541
+E18_2_C26,AT2 Cell(Lung),0.312983819089254
+E18_2_C26,Epithelial cell_Sftpc high(Fetal_Lung),0.28520845019588
+E18_2_C26,Dividing cells(Lung),0.253695473208949
+E18_2_C26,Epithelial Cells(Lung-Mesenchyme),0.253142047370635
+E18_2_C26,Stromal cell_Inmt high(Lung),0.252892005459291
+E18_2_C26,Ciliated cell(Lung),0.250499419514887
+E18_2_C26,Clara Cell(Lung),0.248072842311169
+E18_2_C26,Stromal cell_Inmt high(Lung-Mesenchyme),0.214523842871868
+E18_2_C26,Stromal cell_Aspn high(Lung-Mesenchyme),0.204510413291639
+E18_2_C26,Ependymocytes(Arc-Me),0.171942039246455
+E18_2_C38,AT1 Cell(Lung),0.438430963589275
+E18_2_C38,Alveolar bipotent progenitor(Lung),0.302070338066912
+E18_2_C38,AT2 Cell(Lung),0.30109582975074
+E18_2_C38,Epithelial cell_Sftpc high(Fetal_Lung),0.282953449014671
+E18_2_C38,Epithelial Cells(Lung-Mesenchyme),0.258686746740671
+E18_2_C38,Ciliated cell(Lung),0.241259842070028
+E18_2_C38,Clara Cell(Lung),0.240488024379715
+E18_2_C38,Stromal cell_Inmt high(Lung),0.237839389849022
+E18_2_C38,Dividing cells(Lung),0.236624183269897
+E18_2_C38,Stromal cell_Inmt high(Lung-Mesenchyme),0.218738958526212
+E18_2_C38,Stromal cell_Aspn high(Lung-Mesenchyme),0.207131335204978
+E18_2_C38,Ependymocytes(Arc-Me),0.148323705164693
+E18_1_C60,AT1 Cell(Lung),0.352273279466633
+E18_1_C60,Alveolar bipotent progenitor(Lung),0.249079851963594
+E18_1_C60,AT2 Cell(Lung),0.228365772217057
+E18_1_C60,Ciliated cell(Lung),0.226742305298643
+E18_1_C60,Clara Cell(Lung),0.214105821426292
+E18_1_C60,Epithelial Cells(Lung-Mesenchyme),0.196984762807368
+E18_1_C60,Epithelial cell_Sftpc high(Fetal_Lung),0.188013280598351
+E18_1_C60,Stromal cell_Inmt high(Lung),0.167533669187284
+E18_1_C60,Dividing cells(Lung),0.166640783056668
+E18_1_C60,Stromal cell_Inmt high(Lung-Mesenchyme),0.130205726943569
+E18_1_C60,Stromal cell_Aspn high(Lung-Mesenchyme),0.124011211281878
+E18_1_C60,Ependymocytes(Arc-Me),0.105120427119753
+E18_2_C65,AT1 Cell(Lung),0.393749208077377
+E18_2_C65,Alveolar bipotent progenitor(Lung),0.269016923155637
+E18_2_C65,AT2 Cell(Lung),0.257629323319748
+E18_2_C65,Epithelial Cells(Lung-Mesenchyme),0.239330549185765
+E18_2_C65,Stromal cell_Inmt high(Lung),0.221503352243373
+E18_2_C65,Stromal cell_Inmt high(Lung-Mesenchyme),0.220266598386189
+E18_2_C65,Stromal cell_Aspn high(Lung-Mesenchyme),0.210662459617503
+E18_2_C65,Epithelial cell_Sftpc high(Fetal_Lung),0.2102359146977
+E18_2_C65,Ciliated cell(Lung),0.203669433580125
+E18_2_C65,Dividing cells(Lung),0.197453707168646
+E18_2_C65,Clara Cell(Lung),0.197320731255421
+E18_2_C65,Ependymocytes(Arc-Me),0.148772126654949
+E18_2_C92,AT1 Cell(Lung),0.387454808740619
+E18_2_C92,Epithelial Cells(Lung-Mesenchyme),0.267408394900857
+E18_2_C92,Alveolar bipotent progenitor(Lung),0.257166707474037
+E18_2_C92,AT2 Cell(Lung),0.252530309118261
+E18_2_C92,Clara Cell(Lung),0.223184359065251
+E18_2_C92,Ciliated cell(Lung),0.211986235272779
+E18_2_C92,Epithelial cell_Sftpc high(Fetal_Lung),0.205781289713982
+E18_2_C92,Stromal cell_Inmt high(Lung),0.197182408090347
+E18_2_C92,Dividing cells(Lung),0.186987226747981
+E18_2_C92,Stromal cell_Aspn high(Lung-Mesenchyme),0.170047071386128
+E18_2_C92,Stromal cell_Inmt high(Lung-Mesenchyme),0.169523945453986
+E18_2_C92,Ependymocytes(Arc-Me),0.116284602723138
+E18_2_C06,AT1 Cell(Lung),0.445317616431659
+E18_2_C06,Alveolar bipotent progenitor(Lung),0.316403003770967
+E18_2_C06,AT2 Cell(Lung),0.296648060981918
+E18_2_C06,Ciliated cell(Lung),0.248160067386454
+E18_2_C06,Epithelial Cells(Lung-Mesenchyme),0.243354435398122
+E18_2_C06,Stromal cell_Inmt high(Lung),0.233505515276828
+E18_2_C06,Dividing cells(Lung),0.222745175534009
+E18_2_C06,Clara Cell(Lung),0.218160264969832
+E18_2_C06,Stromal cell_Inmt high(Lung-Mesenchyme),0.205700488154197
+E18_2_C06,Stromal cell_Aspn high(Lung-Mesenchyme),0.194004532177269
+E18_2_C06,Epithelial cell_Sftpc high(Fetal_Lung),0.153313653900793
+E18_2_C06,Ependymocytes(Arc-Me),0.123883584889429
+E18_2_C73,AT1 Cell(Lung),0.416781282658582
+E18_2_C73,Alveolar bipotent progenitor(Lung),0.292534565901341
+E18_2_C73,AT2 Cell(Lung),0.284125054322784
+E18_2_C73,Ciliated cell(Lung),0.232426793767534
+E18_2_C73,Dividing cells(Lung),0.230462229756314
+E18_2_C73,Clara Cell(Lung),0.228580057032953
+E18_2_C73,Epithelial cell_Sftpc high(Fetal_Lung),0.223640641788949
+E18_2_C73,Epithelial Cells(Lung-Mesenchyme),0.221463939983474
+E18_2_C73,Stromal cell_Inmt high(Lung),0.19989847487167
+E18_2_C73,Stromal cell_Inmt high(Lung-Mesenchyme),0.164732449726485
+E18_2_C73,Stromal cell_Aspn high(Lung-Mesenchyme),0.164711640714867
+E18_2_C73,Ependymocytes(Arc-Me),0.122945737364845
+E18_2_C61,AT1 Cell(Lung),0.419641537867458
+E18_2_C61,Alveolar bipotent progenitor(Lung),0.287979990627293
+E18_2_C61,AT2 Cell(Lung),0.277650829643529
+E18_2_C61,Ciliated cell(Lung),0.238093177894901
+E18_2_C61,Epithelial Cells(Lung-Mesenchyme),0.237463888612697
+E18_2_C61,Clara Cell(Lung),0.234189023039599
+E18_2_C61,Stromal cell_Inmt high(Lung),0.211651171552879
+E18_2_C61,Dividing cells(Lung),0.203952164962784
+E18_2_C61,Stromal cell_Aspn high(Lung-Mesenchyme),0.174518279575077
+E18_2_C61,Stromal cell_Inmt high(Lung-Mesenchyme),0.171540441459987
+E18_2_C61,Epithelial cell_Sftpc high(Fetal_Lung),0.169306544488928
+E18_2_C61,Ependymocytes(Arc-Me),0.136159688301574
+E18_2_C63,AT1 Cell(Lung),0.401119532811492
+E18_2_C63,Alveolar bipotent progenitor(Lung),0.295290657872571
+E18_2_C63,AT2 Cell(Lung),0.275380950689882
+E18_2_C63,Epithelial Cells(Lung-Mesenchyme),0.24772059644762
+E18_2_C63,Ciliated cell(Lung),0.235988678867652
+E18_2_C63,Clara Cell(Lung),0.23103408584144
+E18_2_C63,Dividing cells(Lung),0.229804690417641
+E18_2_C63,Stromal cell_Inmt high(Lung),0.212815056852266
+E18_2_C63,Stromal cell_Aspn high(Lung-Mesenchyme),0.200455602070571
+E18_2_C63,Epithelial cell_Sftpc high(Fetal_Lung),0.196004980255371
+E18_2_C63,Stromal cell_Inmt high(Lung-Mesenchyme),0.190017920870236
+E18_2_C63,Ependymocytes(Arc-Me),0.121449243244892
+E18_2_C69,AT1 Cell(Lung),0.391016791769169
+E18_2_C69,Alveolar bipotent progenitor(Lung),0.28687954546436
+E18_2_C69,AT2 Cell(Lung),0.257885821488755
+E18_2_C69,Epithelial Cells(Lung-Mesenchyme),0.24364213862781
+E18_2_C69,Ciliated cell(Lung),0.223004291626611
+E18_2_C69,Clara Cell(Lung),0.222416200253006
+E18_2_C69,Stromal cell_Inmt high(Lung),0.211510450526721
+E18_2_C69,Dividing cells(Lung),0.201527542463417
+E18_2_C69,Stromal cell_Inmt high(Lung-Mesenchyme),0.200330734036677
+E18_2_C69,Epithelial cell_Sftpc high(Fetal_Lung),0.186806155713121
+E18_2_C69,Stromal cell_Aspn high(Lung-Mesenchyme),0.186383884874779
+E18_2_C69,Ependymocytes(Arc-Me),0.119414709325891
+E18_2_C74,Stromal cell_Inmt high(Lung-Mesenchyme),0.45754217551175
+E18_2_C74,Stromal cell_Inmt high(Lung),0.442923827551284
+E18_2_C74,Stromal cell_Aspn high(Lung-Mesenchyme),0.41850727684235
+E18_2_C74,Epithelial Cells(Lung-Mesenchyme),0.417728427165211
+E18_2_C74,AT1 Cell(Lung),0.388288566138348
+E18_2_C74,Epithelial cell_Sftpc high(Fetal_Lung),0.355112126341574
+E18_2_C74,Alveolar bipotent progenitor(Lung),0.305351853360772
+E18_2_C74,AT2 Cell(Lung),0.302505084790138
+E18_2_C74,Ciliated cell(Lung),0.256982028007158
+E18_2_C74,Clara Cell(Lung),0.241729178102516
+E18_2_C74,Dividing cells(Lung),0.234371221619618
+E18_2_C74,Ependymocytes(Arc-Me),0.223082003130555
+E18_2_C42,AT1 Cell(Lung),0.461894975132837
+E18_2_C42,Alveolar bipotent progenitor(Lung),0.346651674023365
+E18_2_C42,AT2 Cell(Lung),0.343908099671764
+E18_2_C42,Epithelial Cells(Lung-Mesenchyme),0.317562861717091
+E18_2_C42,Epithelial cell_Sftpc high(Fetal_Lung),0.287547808044065
+E18_2_C42,Clara Cell(Lung),0.279796537052729
+E18_2_C42,Ciliated cell(Lung),0.273036454076286
+E18_2_C42,Dividing cells(Lung),0.267616292355518
+E18_2_C42,Stromal cell_Aspn high(Lung-Mesenchyme),0.243829542410368
+E18_2_C42,Stromal cell_Inmt high(Lung),0.243828498153355
+E18_2_C42,Stromal cell_Inmt high(Lung-Mesenchyme),0.237312499088362
+E18_2_C42,Ependymocytes(Arc-Me),0.179479630595658
+E18_2_C55,AT1 Cell(Lung),0.448268572941731
+E18_2_C55,Alveolar bipotent progenitor(Lung),0.319601388408969
+E18_2_C55,AT2 Cell(Lung),0.298463875203363
+E18_2_C55,Epithelial Cells(Lung-Mesenchyme),0.282652678078914
+E18_2_C55,Epithelial cell_Sftpc high(Fetal_Lung),0.268804369393447
+E18_2_C55,Ciliated cell(Lung),0.267742224665084
+E18_2_C55,Dividing cells(Lung),0.259118057838883
+E18_2_C55,Clara Cell(Lung),0.258667509468121
+E18_2_C55,Stromal cell_Inmt high(Lung),0.242818510465171
+E18_2_C55,Stromal cell_Aspn high(Lung-Mesenchyme),0.240247321908029
+E18_2_C55,Stromal cell_Inmt high(Lung-Mesenchyme),0.235715287936623
+E18_2_C55,Ependymocytes(Arc-Me),0.161396232882873
+E18_2_C44,AT1 Cell(Lung),0.471059141665152
+E18_2_C44,Alveolar bipotent progenitor(Lung),0.328148107796743
+E18_2_C44,AT2 Cell(Lung),0.317375189368743
+E18_2_C44,Epithelial Cells(Lung-Mesenchyme),0.287086720402524
+E18_2_C44,Epithelial cell_Sftpc high(Fetal_Lung),0.279751917988752
+E18_2_C44,Clara Cell(Lung),0.272302924039938
+E18_2_C44,Ciliated cell(Lung),0.268668477178972
+E18_2_C44,Stromal cell_Inmt high(Lung),0.248225658955825
+E18_2_C44,Dividing cells(Lung),0.247101100849664
+E18_2_C44,Stromal cell_Aspn high(Lung-Mesenchyme),0.229500633941517
+E18_2_C44,Stromal cell_Inmt high(Lung-Mesenchyme),0.228950351287074
+E18_2_C44,Ependymocytes(Arc-Me),0.192017585313462
+E18_1_C34,AT1 Cell(Lung),0.447586244735124
+E18_1_C34,Alveolar bipotent progenitor(Lung),0.315016384769494
+E18_1_C34,AT2 Cell(Lung),0.301464140304237
+E18_1_C34,Epithelial Cells(Lung-Mesenchyme),0.298026193634764
+E18_1_C34,Clara Cell(Lung),0.28845925829186
+E18_1_C34,Ciliated cell(Lung),0.278811942619214
+E18_1_C34,Epithelial cell_Sftpc high(Fetal_Lung),0.271659039483043
+E18_1_C34,Stromal cell_Inmt high(Lung),0.243327912503599
+E18_1_C34,Dividing cells(Lung),0.239882236025107
+E18_1_C34,Stromal cell_Aspn high(Lung-Mesenchyme),0.230767614858792
+E18_1_C34,Stromal cell_Inmt high(Lung-Mesenchyme),0.230575933197625
+E18_1_C34,Ependymocytes(Arc-Me),0.182570566702335
+E18_3_C90,AT1 Cell(Lung),0.453396899895091
+E18_3_C90,Alveolar bipotent progenitor(Lung),0.356746105279486
+E18_3_C90,AT2 Cell(Lung),0.343105896441868
+E18_3_C90,Ciliated cell(Lung),0.299396184561265
+E18_3_C90,Clara Cell(Lung),0.293121672606605
+E18_3_C90,Dividing cells(Lung),0.267062729962875
+E18_3_C90,Stromal cell_Inmt high(Lung),0.257672765463576
+E18_3_C90,Epithelial cell_Sftpc high(Fetal_Lung),0.257441576491496
+E18_3_C90,Epithelial Cells(Lung-Mesenchyme),0.250935438140643
+E18_3_C90,Stromal cell_Inmt high(Lung-Mesenchyme),0.21069034694706
+E18_3_C90,Stromal cell_Aspn high(Lung-Mesenchyme),0.207883851128492
+E18_3_C90,Ependymocytes(Arc-Me),0.176288784643324
+E18_3_C61,AT1 Cell(Lung),0.429596416815625
+E18_3_C61,Alveolar bipotent progenitor(Lung),0.347159088082232
+E18_3_C61,AT2 Cell(Lung),0.344617253934219
+E18_3_C61,Ciliated cell(Lung),0.308274092036348
+E18_3_C61,Clara Cell(Lung),0.305650996563282
+E18_3_C61,Epithelial cell_Sftpc high(Fetal_Lung),0.288802506552735
+E18_3_C61,Epithelial Cells(Lung-Mesenchyme),0.261703195101858
+E18_3_C61,Dividing cells(Lung),0.254682207297881
+E18_3_C61,Stromal cell_Inmt high(Lung),0.246241825039331
+E18_3_C61,Stromal cell_Aspn high(Lung-Mesenchyme),0.210313666381335
+E18_3_C61,Stromal cell_Inmt high(Lung-Mesenchyme),0.207791275336702
+E18_3_C61,Ependymocytes(Arc-Me),0.171305540659883
+E18_2_C22,AT1 Cell(Lung),0.448638628809046
+E18_2_C22,Alveolar bipotent progenitor(Lung),0.361985745560804
+E18_2_C22,AT2 Cell(Lung),0.342139142858764
+E18_2_C22,Clara Cell(Lung),0.284593201616758
+E18_2_C22,Ciliated cell(Lung),0.275894260609821
+E18_2_C22,Epithelial cell_Sftpc high(Fetal_Lung),0.274222544300482
+E18_2_C22,Dividing cells(Lung),0.272876063985382
+E18_2_C22,Epithelial Cells(Lung-Mesenchyme),0.271890797302519
+E18_2_C22,Stromal cell_Inmt high(Lung),0.23617486005459
+E18_2_C22,Stromal cell_Aspn high(Lung-Mesenchyme),0.205468146835166
+E18_2_C22,Stromal cell_Inmt high(Lung-Mesenchyme),0.204500272826313
+E18_2_C22,Ependymocytes(Arc-Me),0.161412826244139
+E18_2_C50,AT1 Cell(Lung),0.443513934688065
+E18_2_C50,Alveolar bipotent progenitor(Lung),0.345277461449378
+E18_2_C50,AT2 Cell(Lung),0.332261975911202
+E18_2_C50,Epithelial Cells(Lung-Mesenchyme),0.289908073257371
+E18_2_C50,Clara Cell(Lung),0.286095748566365
+E18_2_C50,Epithelial cell_Sftpc high(Fetal_Lung),0.284695121508628
+E18_2_C50,Ciliated cell(Lung),0.26713155012354
+E18_2_C50,Dividing cells(Lung),0.260257180458232
+E18_2_C50,Stromal cell_Inmt high(Lung),0.241897962808
+E18_2_C50,Stromal cell_Inmt high(Lung-Mesenchyme),0.219486952818808
+E18_2_C50,Stromal cell_Aspn high(Lung-Mesenchyme),0.205248249809665
+E18_2_C50,Ependymocytes(Arc-Me),0.170039720722662
+E18_3_C28,AT1 Cell(Lung),0.429059629422057
+E18_3_C28,Alveolar bipotent progenitor(Lung),0.357063580206507
+E18_3_C28,AT2 Cell(Lung),0.355729191056615
+E18_3_C28,Epithelial cell_Sftpc high(Fetal_Lung),0.318106506801586
+E18_3_C28,Clara Cell(Lung),0.290339758184572
+E18_3_C28,Epithelial Cells(Lung-Mesenchyme),0.284470704111204
+E18_3_C28,Ciliated cell(Lung),0.280204305126135
+E18_3_C28,Dividing cells(Lung),0.273771347885099
+E18_3_C28,Stromal cell_Inmt high(Lung),0.238613144312344
+E18_3_C28,Stromal cell_Inmt high(Lung-Mesenchyme),0.220896383136424
+E18_3_C28,Stromal cell_Aspn high(Lung-Mesenchyme),0.218873309176906
+E18_3_C28,Ependymocytes(Arc-Me),0.18126036235103
+E18_2_C31,AT1 Cell(Lung),0.450623996645334
+E18_2_C31,Alveolar bipotent progenitor(Lung),0.3569574590002
+E18_2_C31,AT2 Cell(Lung),0.353989905088885
+E18_2_C31,Clara Cell(Lung),0.293067461492323
+E18_2_C31,Epithelial cell_Sftpc high(Fetal_Lung),0.290996352971358
+E18_2_C31,Dividing cells(Lung),0.290143382633019
+E18_2_C31,Ciliated cell(Lung),0.287118759074553
+E18_2_C31,Epithelial Cells(Lung-Mesenchyme),0.273391962379371
+E18_2_C31,Stromal cell_Inmt high(Lung),0.246092255272752
+E18_2_C31,Stromal cell_Inmt high(Lung-Mesenchyme),0.213170571278905
+E18_2_C31,Stromal cell_Aspn high(Lung-Mesenchyme),0.211136228169955
+E18_2_C31,Ependymocytes(Arc-Me),0.195685088276785
+E18_3_C54,AT1 Cell(Lung),0.44905293473404
+E18_3_C54,Alveolar bipotent progenitor(Lung),0.366317194159191
+E18_3_C54,AT2 Cell(Lung),0.358374948420365
+E18_3_C54,Ciliated cell(Lung),0.281527763949027
+E18_3_C54,Clara Cell(Lung),0.281084640392187
+E18_3_C54,Epithelial cell_Sftpc high(Fetal_Lung),0.279424495438054
+E18_3_C54,Epithelial Cells(Lung-Mesenchyme),0.274933002694857
+E18_3_C54,Dividing cells(Lung),0.273517722118015
+E18_3_C54,Stromal cell_Inmt high(Lung),0.255731744884178
+E18_3_C54,Stromal cell_Aspn high(Lung-Mesenchyme),0.221457811207906
+E18_3_C54,Stromal cell_Inmt high(Lung-Mesenchyme),0.220634279606734
+E18_3_C54,Ependymocytes(Arc-Me),0.181301672324262
+E18_2_C12,AT1 Cell(Lung),0.441745210748124
+E18_2_C12,Epithelial cell_Sftpc high(Fetal_Lung),0.383957311201994
+E18_2_C12,Alveolar bipotent progenitor(Lung),0.350479417151517
+E18_2_C12,AT2 Cell(Lung),0.329967601054752
+E18_2_C12,Ciliated cell(Lung),0.30634934193563
+E18_2_C12,Clara Cell(Lung),0.304995489422107
+E18_2_C12,Dividing cells(Lung),0.293610916240013
+E18_2_C12,Epithelial Cells(Lung-Mesenchyme),0.290127603315646
+E18_2_C12,Stromal cell_Inmt high(Lung),0.241966445431546
+E18_2_C12,Stromal cell_Inmt high(Lung-Mesenchyme),0.22036931112305
+E18_2_C12,Stromal cell_Aspn high(Lung-Mesenchyme),0.219634157553554
+E18_2_C12,Ependymocytes(Arc-Me),0.206694593366674
+E18_3_C47,AT1 Cell(Lung),0.481192132747837
+E18_3_C47,AT2 Cell(Lung),0.344243883665291
+E18_3_C47,Alveolar bipotent progenitor(Lung),0.332506703743589
+E18_3_C47,Epithelial cell_Sftpc high(Fetal_Lung),0.309167921834054
+E18_3_C47,Clara Cell(Lung),0.308480537613758
+E18_3_C47,Ciliated cell(Lung),0.303844088416377
+E18_3_C47,Epithelial Cells(Lung-Mesenchyme),0.286375311873383
+E18_3_C47,Dividing cells(Lung),0.274684087273981
+E18_3_C47,Stromal cell_Inmt high(Lung),0.264749878074481
+E18_3_C47,Stromal cell_Inmt high(Lung-Mesenchyme),0.226754308914728
+E18_3_C47,Stromal cell_Aspn high(Lung-Mesenchyme),0.212327359072408
+E18_3_C47,Ependymocytes(Arc-Me),0.155732003598774
+E18_3_C59,AT1 Cell(Lung),0.468804825420688
+E18_3_C59,Alveolar bipotent progenitor(Lung),0.363429742992512
+E18_3_C59,AT2 Cell(Lung),0.356000068736194
+E18_3_C59,Epithelial cell_Sftpc high(Fetal_Lung),0.315954334989432
+E18_3_C59,Clara Cell(Lung),0.310236124358477
+E18_3_C59,Ciliated cell(Lung),0.299573919810722
+E18_3_C59,Epithelial Cells(Lung-Mesenchyme),0.289717798144377
+E18_3_C59,Dividing cells(Lung),0.272472749843213
+E18_3_C59,Stromal cell_Inmt high(Lung),0.24722966656793
+E18_3_C59,Stromal cell_Inmt high(Lung-Mesenchyme),0.22942384483627
+E18_3_C59,Stromal cell_Aspn high(Lung-Mesenchyme),0.220523015085993
+E18_3_C59,Ependymocytes(Arc-Me),0.168173141416453
+E18_3_C37,AT1 Cell(Lung),0.464867447702216
+E18_3_C37,AT2 Cell(Lung),0.362004559080979
+E18_3_C37,Alveolar bipotent progenitor(Lung),0.356393058367293
+E18_3_C37,Clara Cell(Lung),0.309830475424668
+E18_3_C37,Epithelial cell_Sftpc high(Fetal_Lung),0.294777096746971
+E18_3_C37,Epithelial Cells(Lung-Mesenchyme),0.294088311859885
+E18_3_C37,Dividing cells(Lung),0.29219263626435
+E18_3_C37,Ciliated cell(Lung),0.291529912149442
+E18_3_C37,Stromal cell_Inmt high(Lung),0.249955084357545
+E18_3_C37,Stromal cell_Inmt high(Lung-Mesenchyme),0.21353442275784
+E18_3_C37,Stromal cell_Aspn high(Lung-Mesenchyme),0.209510992679009
+E18_3_C37,Ependymocytes(Arc-Me),0.174732268221191
+E18_3_C55,AT1 Cell(Lung),0.47063201595773
+E18_3_C55,Alveolar bipotent progenitor(Lung),0.358209232643609
+E18_3_C55,AT2 Cell(Lung),0.351210109582109
+E18_3_C55,Clara Cell(Lung),0.30330503701957
+E18_3_C55,Epithelial cell_Sftpc high(Fetal_Lung),0.300881652154751
+E18_3_C55,Ciliated cell(Lung),0.294199338712669
+E18_3_C55,Epithelial Cells(Lung-Mesenchyme),0.293967879497658
+E18_3_C55,Dividing cells(Lung),0.289356802131436
+E18_3_C55,Stromal cell_Inmt high(Lung),0.269768596651705
+E18_3_C55,Stromal cell_Inmt high(Lung-Mesenchyme),0.230710361656254
+E18_3_C55,Stromal cell_Aspn high(Lung-Mesenchyme),0.226167962067255
+E18_3_C55,Ependymocytes(Arc-Me),0.182961923869723
+E18_2_C36,AT1 Cell(Lung),0.440412952647506
+E18_2_C36,Alveolar bipotent progenitor(Lung),0.419607379034928
+E18_2_C36,AT2 Cell(Lung),0.405927027012615
+E18_2_C36,Dividing cells(Lung),0.31858276894575
+E18_2_C36,Clara Cell(Lung),0.31597847522236
+E18_2_C36,Ciliated cell(Lung),0.314092852038654
+E18_2_C36,Epithelial cell_Sftpc high(Fetal_Lung),0.301174368094962
+E18_2_C36,Stromal cell_Inmt high(Lung),0.248068103332547
+E18_2_C36,Epithelial Cells(Lung-Mesenchyme),0.228387121048597
+E18_2_C36,Stromal cell_Inmt high(Lung-Mesenchyme),0.172188161803526
+E18_2_C36,Stromal cell_Aspn high(Lung-Mesenchyme),0.168232027639404
+E18_2_C36,Ependymocytes(Arc-Me),0.147045413401226
+E18_2_C87,AT1 Cell(Lung),0.440220361627313
+E18_2_C87,AT2 Cell(Lung),0.406236014221871
+E18_2_C87,Alveolar bipotent progenitor(Lung),0.395919397229715
+E18_2_C87,Dividing cells(Lung),0.303545257172624
+E18_2_C87,Clara Cell(Lung),0.297094287425426
+E18_2_C87,Ciliated cell(Lung),0.276597653176448
+E18_2_C87,Epithelial cell_Sftpc high(Fetal_Lung),0.266739765198112
+E18_2_C87,Stromal cell_Inmt high(Lung),0.2545666273991
+E18_2_C87,Epithelial Cells(Lung-Mesenchyme),0.217405034514098
+E18_2_C87,Stromal cell_Aspn high(Lung-Mesenchyme),0.175004532696296
+E18_2_C87,Stromal cell_Inmt high(Lung-Mesenchyme),0.173995893348389
+E18_2_C87,Ependymocytes(Arc-Me),0.124203264394247
+E18_2_C07,AT1 Cell(Lung),0.490238137652981
+E18_2_C07,AT2 Cell(Lung),0.408744787629738
+E18_2_C07,Alveolar bipotent progenitor(Lung),0.402361060053227
+E18_2_C07,Dividing cells(Lung),0.31918929695776
+E18_2_C07,Clara Cell(Lung),0.314702167314762
+E18_2_C07,Epithelial cell_Sftpc high(Fetal_Lung),0.307584257607582
+E18_2_C07,Ciliated cell(Lung),0.306921802054014
+E18_2_C07,Stromal cell_Inmt high(Lung),0.281379384150438
+E18_2_C07,Epithelial Cells(Lung-Mesenchyme),0.280005745278427
+E18_2_C07,Stromal cell_Inmt high(Lung-Mesenchyme),0.21295359594072
+E18_2_C07,Stromal cell_Aspn high(Lung-Mesenchyme),0.20553933552536
+E18_2_C07,Ependymocytes(Arc-Me),0.17544181965458
+E18_2_C49,AT1 Cell(Lung),0.474328720271046
+E18_2_C49,AT2 Cell(Lung),0.427969158620779
+E18_2_C49,Alveolar bipotent progenitor(Lung),0.408470209355802
+E18_2_C49,Dividing cells(Lung),0.3286999984538
+E18_2_C49,Clara Cell(Lung),0.316109193437624
+E18_2_C49,Stromal cell_Inmt high(Lung),0.299567871213626
+E18_2_C49,Ciliated cell(Lung),0.295188489131871
+E18_2_C49,Epithelial cell_Sftpc high(Fetal_Lung),0.292448357390786
+E18_2_C49,Epithelial Cells(Lung-Mesenchyme),0.281427653742077
+E18_2_C49,Stromal cell_Inmt high(Lung-Mesenchyme),0.228668462029479
+E18_2_C49,Stromal cell_Aspn high(Lung-Mesenchyme),0.213109350518301
+E18_2_C49,Ependymocytes(Arc-Me),0.185390227476591
+E18_2_C43,AT1 Cell(Lung),0.501962555176064
+E18_2_C43,Alveolar bipotent progenitor(Lung),0.378198246410856
+E18_2_C43,AT2 Cell(Lung),0.36802704602378
+E18_2_C43,Epithelial Cells(Lung-Mesenchyme),0.317108202770476
+E18_2_C43,Ciliated cell(Lung),0.301845080986716
+E18_2_C43,Clara Cell(Lung),0.298332874313218
+E18_2_C43,Stromal cell_Inmt high(Lung),0.298149347706205
+E18_2_C43,Epithelial cell_Sftpc high(Fetal_Lung),0.295550470184834
+E18_2_C43,Dividing cells(Lung),0.29268836691415
+E18_2_C43,Stromal cell_Inmt high(Lung-Mesenchyme),0.257344345492735
+E18_2_C43,Stromal cell_Aspn high(Lung-Mesenchyme),0.254372714537914
+E18_2_C43,Ependymocytes(Arc-Me),0.192875324248499
+E18_1_C37,AT1 Cell(Lung),0.494847150464733
+E18_1_C37,Alveolar bipotent progenitor(Lung),0.37134764021181
+E18_1_C37,AT2 Cell(Lung),0.351908532186797
+E18_1_C37,Epithelial cell_Sftpc high(Fetal_Lung),0.311698963371037
+E18_1_C37,Clara Cell(Lung),0.307776216049069
+E18_1_C37,Epithelial Cells(Lung-Mesenchyme),0.305536093204767
+E18_1_C37,Ciliated cell(Lung),0.290869918498109
+E18_1_C37,Dividing cells(Lung),0.275008030759324
+E18_1_C37,Stromal cell_Inmt high(Lung),0.274182186696969
+E18_1_C37,Stromal cell_Aspn high(Lung-Mesenchyme),0.247220710778983
+E18_1_C37,Stromal cell_Inmt high(Lung-Mesenchyme),0.245680923489986
+E18_1_C37,Ependymocytes(Arc-Me),0.200510495245554
+E18_3_C09,AT1 Cell(Lung),0.484589979905404
+E18_3_C09,Alveolar bipotent progenitor(Lung),0.370918993758513
+E18_3_C09,AT2 Cell(Lung),0.368775797047268
+E18_3_C09,Epithelial cell_Sftpc high(Fetal_Lung),0.341984572888491
+E18_3_C09,Clara Cell(Lung),0.334623244454267
+E18_3_C09,Ciliated cell(Lung),0.323963954599317
+E18_3_C09,Epithelial Cells(Lung-Mesenchyme),0.313675252734027
+E18_3_C09,Dividing cells(Lung),0.308728588787277
+E18_3_C09,Stromal cell_Inmt high(Lung),0.268694684174801
+E18_3_C09,Stromal cell_Inmt high(Lung-Mesenchyme),0.245185459277973
+E18_3_C09,Stromal cell_Aspn high(Lung-Mesenchyme),0.242276680904777
+E18_3_C09,Ependymocytes(Arc-Me),0.192305646213224
+E18_3_C87,AT1 Cell(Lung),0.468444858133402
+E18_3_C87,Alveolar bipotent progenitor(Lung),0.396199382446078
+E18_3_C87,AT2 Cell(Lung),0.388618767478118
+E18_3_C87,Ciliated cell(Lung),0.32692799767924
+E18_3_C87,Epithelial cell_Sftpc high(Fetal_Lung),0.321171956952616
+E18_3_C87,Clara Cell(Lung),0.314361828452349
+E18_3_C87,Dividing cells(Lung),0.312943209283629
+E18_3_C87,Epithelial Cells(Lung-Mesenchyme),0.289932130232227
+E18_3_C87,Stromal cell_Inmt high(Lung),0.285276464787208
+E18_3_C87,Stromal cell_Inmt high(Lung-Mesenchyme),0.23564289275819
+E18_3_C87,Stromal cell_Aspn high(Lung-Mesenchyme),0.225483475963266
+E18_3_C87,Ependymocytes(Arc-Me),0.184365474092726
+E18_3_C51,Ciliated cell(Lung),0.503820217685262
+E18_3_C51,Clara Cell(Lung),0.43769539913311
+E18_3_C51,AT2 Cell(Lung),0.359884013261662
+E18_3_C51,AT1 Cell(Lung),0.35554954692678
+E18_3_C51,Alveolar bipotent progenitor(Lung),0.340479779975057
+E18_3_C51,Epithelial cell_Sftpc high(Fetal_Lung),0.338892971500928
+E18_3_C51,Dividing cells(Lung),0.32008574426685
+E18_3_C51,Ependymocytes(Arc-Me),0.308591464660612
+E18_3_C51,Epithelial Cells(Lung-Mesenchyme),0.25013057153386
+E18_3_C51,Stromal cell_Inmt high(Lung),0.241805045949845
+E18_3_C51,Stromal cell_Inmt high(Lung-Mesenchyme),0.198874215653016
+E18_3_C51,Stromal cell_Aspn high(Lung-Mesenchyme),0.196935011341966
+E18_3_C75,Clara Cell(Lung),0.432548818418197
+E18_3_C75,Ciliated cell(Lung),0.430725133412649
+E18_3_C75,AT2 Cell(Lung),0.345396876479856
+E18_3_C75,Alveolar bipotent progenitor(Lung),0.344006714769616
+E18_3_C75,AT1 Cell(Lung),0.337768760981993
+E18_3_C75,Epithelial cell_Sftpc high(Fetal_Lung),0.311265119015064
+E18_3_C75,Dividing cells(Lung),0.280701709678178
+E18_3_C75,Ependymocytes(Arc-Me),0.243145915621968
+E18_3_C75,Stromal cell_Inmt high(Lung),0.242080536246325
+E18_3_C75,Epithelial Cells(Lung-Mesenchyme),0.240067871427064
+E18_3_C75,Stromal cell_Inmt high(Lung-Mesenchyme),0.197354741647732
+E18_3_C75,Stromal cell_Aspn high(Lung-Mesenchyme),0.184902545569175
+E18_2_C77,AT1 Cell(Lung),0.429757986164564
+E18_2_C77,Clara Cell(Lung),0.39681813515009
+E18_2_C77,Alveolar bipotent progenitor(Lung),0.393409576592756
+E18_2_C77,AT2 Cell(Lung),0.376429963416008
+E18_2_C77,Ciliated cell(Lung),0.351647194706489
+E18_2_C77,Epithelial cell_Sftpc high(Fetal_Lung),0.334273193403221
+E18_2_C77,Dividing cells(Lung),0.292076263664015
+E18_2_C77,Stromal cell_Inmt high(Lung),0.270125003419961
+E18_2_C77,Epithelial Cells(Lung-Mesenchyme),0.268120882631499
+E18_2_C77,Stromal cell_Inmt high(Lung-Mesenchyme),0.223749462975495
+E18_2_C77,Stromal cell_Aspn high(Lung-Mesenchyme),0.214851489903541
+E18_2_C77,Ependymocytes(Arc-Me),0.189845451052752
+E18_3_C15,Clara Cell(Lung),0.485918791454629
+E18_3_C15,AT1 Cell(Lung),0.422962814411699
+E18_3_C15,Ciliated cell(Lung),0.409064636262418
+E18_3_C15,AT2 Cell(Lung),0.396941270745698
+E18_3_C15,Alveolar bipotent progenitor(Lung),0.390872313317206
+E18_3_C15,Dividing cells(Lung),0.296294937384901
+E18_3_C15,Epithelial Cells(Lung-Mesenchyme),0.291387565848808
+E18_3_C15,Stromal cell_Inmt high(Lung),0.285795346109923
+E18_3_C15,Epithelial cell_Sftpc high(Fetal_Lung),0.276600487053513
+E18_3_C15,Stromal cell_Inmt high(Lung-Mesenchyme),0.219586402143295
+E18_3_C15,Stromal cell_Aspn high(Lung-Mesenchyme),0.208688315481915
+E18_3_C15,Ependymocytes(Arc-Me),0.170924095130087
+E18_3_C40,Clara Cell(Lung),0.438476921797123
+E18_3_C40,AT1 Cell(Lung),0.43153729342512
+E18_3_C40,AT2 Cell(Lung),0.395285920508305
+E18_3_C40,Alveolar bipotent progenitor(Lung),0.393852407690576
+E18_3_C40,Ciliated cell(Lung),0.392665969481623
+E18_3_C40,Epithelial cell_Sftpc high(Fetal_Lung),0.316811763437351
+E18_3_C40,Dividing cells(Lung),0.304981706775364
+E18_3_C40,Epithelial Cells(Lung-Mesenchyme),0.301910911436678
+E18_3_C40,Stromal cell_Inmt high(Lung),0.272020271762816
+E18_3_C40,Stromal cell_Inmt high(Lung-Mesenchyme),0.233897239356676
+E18_3_C40,Stromal cell_Aspn high(Lung-Mesenchyme),0.231932204098263
+E18_3_C40,Ependymocytes(Arc-Me),0.204806797296256
+E18_3_C53,Clara Cell(Lung),0.461889461136235
+E18_3_C53,AT1 Cell(Lung),0.408741125577896
+E18_3_C53,Ciliated cell(Lung),0.402206923581199
+E18_3_C53,AT2 Cell(Lung),0.395597527115955
+E18_3_C53,Alveolar bipotent progenitor(Lung),0.385853137083117
+E18_3_C53,Epithelial cell_Sftpc high(Fetal_Lung),0.32256515602059
+E18_3_C53,Dividing cells(Lung),0.301945085983641
+E18_3_C53,Stromal cell_Inmt high(Lung),0.277663567844862
+E18_3_C53,Epithelial Cells(Lung-Mesenchyme),0.266713458654997
+E18_3_C53,Stromal cell_Inmt high(Lung-Mesenchyme),0.213364087143647
+E18_3_C53,Stromal cell_Aspn high(Lung-Mesenchyme),0.210435281279556
+E18_3_C53,Ependymocytes(Arc-Me),0.18490913929539
+E18_1_C53,Clara Cell(Lung),0.41370137105537
+E18_1_C53,Ciliated cell(Lung),0.349323005094779
+E18_1_C53,AT1 Cell(Lung),0.338307258392684
+E18_1_C53,AT2 Cell(Lung),0.318838090497736
+E18_1_C53,Alveolar bipotent progenitor(Lung),0.317109072392219
+E18_1_C53,Dividing cells(Lung),0.248555163472514
+E18_1_C53,Epithelial cell_Sftpc high(Fetal_Lung),0.241155141550716
+E18_1_C53,Stromal cell_Inmt high(Lung),0.2296882937368
+E18_1_C53,Epithelial Cells(Lung-Mesenchyme),0.220018483683858
+E18_1_C53,Stromal cell_Inmt high(Lung-Mesenchyme),0.183479361704252
+E18_1_C53,Stromal cell_Aspn high(Lung-Mesenchyme),0.173863078029574
+E18_1_C53,Ependymocytes(Arc-Me),0.140662078712791
+E18_1_C18,Clara Cell(Lung),0.434807103653481
+E18_1_C18,Ciliated cell(Lung),0.342222389470985
+E18_1_C18,AT2 Cell(Lung),0.325210930635639
+E18_1_C18,AT1 Cell(Lung),0.319884015246865
+E18_1_C18,Alveolar bipotent progenitor(Lung),0.310272873264859
+E18_1_C18,Epithelial cell_Sftpc high(Fetal_Lung),0.299250004789312
+E18_1_C18,Epithelial Cells(Lung-Mesenchyme),0.256554383377579
+E18_1_C18,Dividing cells(Lung),0.252124083378685
+E18_1_C18,Stromal cell_Inmt high(Lung),0.235256332342128
+E18_1_C18,Stromal cell_Inmt high(Lung-Mesenchyme),0.190072157605125
+E18_1_C18,Stromal cell_Aspn high(Lung-Mesenchyme),0.170283042406946
+E18_1_C18,Ependymocytes(Arc-Me),0.149501829049615
+E18_1_C47,Clara Cell(Lung),0.419662314591908
+E18_1_C47,Ciliated cell(Lung),0.347852965047667
+E18_1_C47,AT2 Cell(Lung),0.310987566749061
+E18_1_C47,AT1 Cell(Lung),0.310357150147703
+E18_1_C47,Alveolar bipotent progenitor(Lung),0.29661030387034
+E18_1_C47,Epithelial cell_Sftpc high(Fetal_Lung),0.277848090470082
+E18_1_C47,Dividing cells(Lung),0.237345129798227
+E18_1_C47,Epithelial Cells(Lung-Mesenchyme),0.224700108117813
+E18_1_C47,Stromal cell_Inmt high(Lung),0.224536931322895
+E18_1_C47,Stromal cell_Inmt high(Lung-Mesenchyme),0.181714427559045
+E18_1_C47,Stromal cell_Aspn high(Lung-Mesenchyme),0.169531952981813
+E18_1_C47,Ependymocytes(Arc-Me),0.138027381368864
+E18_1_C46,Clara Cell(Lung),0.450768701917802
+E18_1_C46,Ciliated cell(Lung),0.398173401169341
+E18_1_C46,AT1 Cell(Lung),0.37436330100918
+E18_1_C46,AT2 Cell(Lung),0.367390963977507
+E18_1_C46,Alveolar bipotent progenitor(Lung),0.353308244066497
+E18_1_C46,Epithelial cell_Sftpc high(Fetal_Lung),0.320193970011271
+E18_1_C46,Dividing cells(Lung),0.297394948920295
+E18_1_C46,Epithelial Cells(Lung-Mesenchyme),0.256456189225098
+E18_1_C46,Stromal cell_Inmt high(Lung),0.23355935486304
+E18_1_C46,Stromal cell_Inmt high(Lung-Mesenchyme),0.198151258384607
+E18_1_C46,Stromal cell_Aspn high(Lung-Mesenchyme),0.183067207285233
+E18_1_C46,Ependymocytes(Arc-Me),0.155594884098288
+E18_3_C36,Clara Cell(Lung),0.443652954801422
+E18_3_C36,Ciliated cell(Lung),0.374245964835781
+E18_3_C36,AT2 Cell(Lung),0.351504400078398
+E18_3_C36,Alveolar bipotent progenitor(Lung),0.348708940139731
+E18_3_C36,AT1 Cell(Lung),0.326401383648795
+E18_3_C36,Dividing cells(Lung),0.270290079960404
+E18_3_C36,Epithelial cell_Sftpc high(Fetal_Lung),0.266293780175069
+E18_3_C36,Stromal cell_Inmt high(Lung),0.252211562733241
+E18_3_C36,Epithelial Cells(Lung-Mesenchyme),0.217011438170863
+E18_3_C36,Stromal cell_Inmt high(Lung-Mesenchyme),0.204505148293046
+E18_3_C36,Stromal cell_Aspn high(Lung-Mesenchyme),0.185979060579644
+E18_3_C36,Ependymocytes(Arc-Me),0.141944926794626
+E18_1_C15,Clara Cell(Lung),0.445900421577663
+E18_1_C15,Ciliated cell(Lung),0.368125856576354
+E18_1_C15,AT2 Cell(Lung),0.362728052422633
+E18_1_C15,Alveolar bipotent progenitor(Lung),0.34188179227243
+E18_1_C15,AT1 Cell(Lung),0.332900293243841
+E18_1_C15,Dividing cells(Lung),0.278806758025822
+E18_1_C15,Epithelial cell_Sftpc high(Fetal_Lung),0.272988880793223
+E18_1_C15,Epithelial Cells(Lung-Mesenchyme),0.235458667648328
+E18_1_C15,Stromal cell_Inmt high(Lung),0.231283418008031
+E18_1_C15,Stromal cell_Inmt high(Lung-Mesenchyme),0.186543485301852
+E18_1_C15,Stromal cell_Aspn high(Lung-Mesenchyme),0.177509466679673
+E18_1_C15,Ependymocytes(Arc-Me),0.139731479034304
+E18_2_C81,AT2 Cell(Lung),0.352429790363219
+E18_2_C81,Alveolar bipotent progenitor(Lung),0.338498156586695
+E18_2_C81,Dividing cells(Lung),0.301576459146348
+E18_2_C81,AT1 Cell(Lung),0.282634757456465
+E18_2_C81,Epithelial cell_Sftpc high(Fetal_Lung),0.230087968909301
+E18_2_C81,Clara Cell(Lung),0.220902292738928
+E18_2_C81,Ciliated cell(Lung),0.210150659188194
+E18_2_C81,Stromal cell_Inmt high(Lung),0.193178845967377
+E18_2_C81,Stromal cell_Aspn high(Lung-Mesenchyme),0.118322719669563
+E18_2_C81,Stromal cell_Inmt high(Lung-Mesenchyme),0.1137949463518
+E18_2_C81,Epithelial Cells(Lung-Mesenchyme),0.108313436639967
+E18_2_C81,Ependymocytes(Arc-Me),0.101940792621819
+E18_3_C13,Ciliated cell(Lung),0.41777626409221
+E18_3_C13,Clara Cell(Lung),0.31596496414353
+E18_3_C13,Ependymocytes(Arc-Me),0.295061015135706
+E18_3_C13,Epithelial cell_Sftpc high(Fetal_Lung),0.275093941928955
+E18_3_C13,AT1 Cell(Lung),0.248769885549293
+E18_3_C13,AT2 Cell(Lung),0.245626633994225
+E18_3_C13,Alveolar bipotent progenitor(Lung),0.231494400575459
+E18_3_C13,Dividing cells(Lung),0.218379437066673
+E18_3_C13,Epithelial Cells(Lung-Mesenchyme),0.211031919134923
+E18_3_C13,Stromal cell_Inmt high(Lung),0.195394281475225
+E18_3_C13,Stromal cell_Inmt high(Lung-Mesenchyme),0.190619599741193
+E18_3_C13,Stromal cell_Aspn high(Lung-Mesenchyme),0.182520105192773
+E18_1_C62,Clara Cell(Lung),0.371598163715569
+E18_1_C62,Ciliated cell(Lung),0.340278389074063
+E18_1_C62,AT1 Cell(Lung),0.262652191815857
+E18_1_C62,Alveolar bipotent progenitor(Lung),0.257414630449732
+E18_1_C62,AT2 Cell(Lung),0.256770889251554
+E18_1_C62,Epithelial cell_Sftpc high(Fetal_Lung),0.24436984069321
+E18_1_C62,Dividing cells(Lung),0.218733082406216
+E18_1_C62,Stromal cell_Inmt high(Lung),0.190284902397667
+E18_1_C62,Epithelial Cells(Lung-Mesenchyme),0.186211021018147
+E18_1_C62,Stromal cell_Inmt high(Lung-Mesenchyme),0.162205454814211
+E18_1_C62,Stromal cell_Aspn high(Lung-Mesenchyme),0.147202796815801
+E18_1_C62,Ependymocytes(Arc-Me),0.136782779565394
+E18_2_C30,AT1 Cell(Lung),0.463319172462519
+E18_2_C30,AT2 Cell(Lung),0.433012254106861
+E18_2_C30,Alveolar bipotent progenitor(Lung),0.414528618328865
+E18_2_C30,Epithelial cell_Sftpc high(Fetal_Lung),0.361274802115983
+E18_2_C30,Dividing cells(Lung),0.332327556286207
+E18_2_C30,Clara Cell(Lung),0.324908098978458
+E18_2_C30,Ciliated cell(Lung),0.297077636902848
+E18_2_C30,Stromal cell_Inmt high(Lung),0.283319209721259
+E18_2_C30,Epithelial Cells(Lung-Mesenchyme),0.261700793424983
+E18_2_C30,Stromal cell_Inmt high(Lung-Mesenchyme),0.214107356212087
+E18_2_C30,Stromal cell_Aspn high(Lung-Mesenchyme),0.203870042845674
+E18_2_C30,Ependymocytes(Arc-Me),0.180443030260035
+E18_3_C29,AT1 Cell(Lung),0.488371601639687
+E18_3_C29,AT2 Cell(Lung),0.439019078961964
+E18_3_C29,Alveolar bipotent progenitor(Lung),0.43317754326219
+E18_3_C29,Clara Cell(Lung),0.360205688133378
+E18_3_C29,Epithelial cell_Sftpc high(Fetal_Lung),0.359704430053928
+E18_3_C29,Dividing cells(Lung),0.348465227533853
+E18_3_C29,Ciliated cell(Lung),0.330634021241072
+E18_3_C29,Stromal cell_Inmt high(Lung),0.294619415627433
+E18_3_C29,Epithelial Cells(Lung-Mesenchyme),0.290437109204089
+E18_3_C29,Stromal cell_Inmt high(Lung-Mesenchyme),0.224711068779348
+E18_3_C29,Stromal cell_Aspn high(Lung-Mesenchyme),0.222307314555892
+E18_3_C29,Ependymocytes(Arc-Me),0.19019115155356
+E18_2_C15,AT1 Cell(Lung),0.491440165212965
+E18_2_C15,AT2 Cell(Lung),0.456823065018592
+E18_2_C15,Alveolar bipotent progenitor(Lung),0.430872635139026
+E18_2_C15,Dividing cells(Lung),0.362481403863059
+E18_2_C15,Clara Cell(Lung),0.341394041278003
+E18_2_C15,Epithelial cell_Sftpc high(Fetal_Lung),0.332795215528875
+E18_2_C15,Ciliated cell(Lung),0.31940393152993
+E18_2_C15,Stromal cell_Inmt high(Lung),0.291577452476413
+E18_2_C15,Epithelial Cells(Lung-Mesenchyme),0.264695453782556
+E18_2_C15,Stromal cell_Inmt high(Lung-Mesenchyme),0.214144190603118
+E18_2_C15,Stromal cell_Aspn high(Lung-Mesenchyme),0.207356021222944
+E18_2_C15,Ependymocytes(Arc-Me),0.182384345819371
+E18_2_C32,AT1 Cell(Lung),0.4703527911633
+E18_2_C32,AT2 Cell(Lung),0.468247745070508
+E18_2_C32,Alveolar bipotent progenitor(Lung),0.450719125016022
+E18_2_C32,Dividing cells(Lung),0.367028006582863
+E18_2_C32,Epithelial cell_Sftpc high(Fetal_Lung),0.363034043692303
+E18_2_C32,Clara Cell(Lung),0.352190391215284
+E18_2_C32,Ciliated cell(Lung),0.321150375899005
+E18_2_C32,Stromal cell_Inmt high(Lung),0.29034459085468
+E18_2_C32,Epithelial Cells(Lung-Mesenchyme),0.276607110735113
+E18_2_C32,Stromal cell_Aspn high(Lung-Mesenchyme),0.220905539365978
+E18_2_C32,Stromal cell_Inmt high(Lung-Mesenchyme),0.212312864102078
+E18_2_C32,Ependymocytes(Arc-Me),0.176740603029286
+E18_3_C23,AT2 Cell(Lung),0.5459875810424
+E18_3_C23,Alveolar bipotent progenitor(Lung),0.476795287138601
+E18_3_C23,Dividing cells(Lung),0.430082723997002
+E18_3_C23,AT1 Cell(Lung),0.419134295985743
+E18_3_C23,Clara Cell(Lung),0.413213100049679
+E18_3_C23,Ciliated cell(Lung),0.373042293484654
+E18_3_C23,Epithelial cell_Sftpc high(Fetal_Lung),0.349962309697113
+E18_3_C23,Stromal cell_Inmt high(Lung),0.32101996776024
+E18_3_C23,Epithelial Cells(Lung-Mesenchyme),0.248043742044882
+E18_3_C23,Stromal cell_Inmt high(Lung-Mesenchyme),0.212174473053773
+E18_3_C23,Stromal cell_Aspn high(Lung-Mesenchyme),0.205200296964578
+E18_3_C23,Ependymocytes(Arc-Me),0.171872088149738
+E18_3_C80,AT2 Cell(Lung),0.499167519184939
+E18_3_C80,AT1 Cell(Lung),0.463028425164805
+E18_3_C80,Alveolar bipotent progenitor(Lung),0.461396520111944
+E18_3_C80,Dividing cells(Lung),0.387513670025408
+E18_3_C80,Clara Cell(Lung),0.387068861749829
+E18_3_C80,Ciliated cell(Lung),0.35100075807519
+E18_3_C80,Epithelial cell_Sftpc high(Fetal_Lung),0.330114606795414
+E18_3_C80,Stromal cell_Inmt high(Lung),0.292063236261551
+E18_3_C80,Epithelial Cells(Lung-Mesenchyme),0.249719899854072
+E18_3_C80,Ependymocytes(Arc-Me),0.193934831837013
+E18_3_C80,Stromal cell_Inmt high(Lung-Mesenchyme),0.185668839339425
+E18_3_C80,Stromal cell_Aspn high(Lung-Mesenchyme),0.180655047510748
+E18_1_C09,AT2 Cell(Lung),0.51750067654739
+E18_1_C09,AT1 Cell(Lung),0.478021816416827
+E18_1_C09,Alveolar bipotent progenitor(Lung),0.473674246886781
+E18_1_C09,Dividing cells(Lung),0.395159423677063
+E18_1_C09,Clara Cell(Lung),0.386733150639138
+E18_1_C09,Ciliated cell(Lung),0.358369325254557
+E18_1_C09,Epithelial cell_Sftpc high(Fetal_Lung),0.335950282925292
+E18_1_C09,Stromal cell_Inmt high(Lung),0.289765207986926
+E18_1_C09,Epithelial Cells(Lung-Mesenchyme),0.250005265603537
+E18_1_C09,Ependymocytes(Arc-Me),0.194199285995593
+E18_1_C09,Stromal cell_Inmt high(Lung-Mesenchyme),0.190853975422469
+E18_1_C09,Stromal cell_Aspn high(Lung-Mesenchyme),0.181634168981508
+E18_3_C10,AT1 Cell(Lung),0.509481003656879
+E18_3_C10,AT2 Cell(Lung),0.506862211670398
+E18_3_C10,Alveolar bipotent progenitor(Lung),0.47183244345037
+E18_3_C10,Clara Cell(Lung),0.391943206955097
+E18_3_C10,Dividing cells(Lung),0.390626930391137
+E18_3_C10,Epithelial cell_Sftpc high(Fetal_Lung),0.379117232554972
+E18_3_C10,Ciliated cell(Lung),0.375086543891555
+E18_3_C10,Stromal cell_Inmt high(Lung),0.308182222654614
+E18_3_C10,Epithelial Cells(Lung-Mesenchyme),0.285307521346364
+E18_3_C10,Stromal cell_Inmt high(Lung-Mesenchyme),0.227316964985756
+E18_3_C10,Stromal cell_Aspn high(Lung-Mesenchyme),0.224966212503592
+E18_3_C10,Ependymocytes(Arc-Me),0.220518853765049
+E18_3_C48,AT2 Cell(Lung),0.499109842227192
+E18_3_C48,Alveolar bipotent progenitor(Lung),0.480837791001126
+E18_3_C48,AT1 Cell(Lung),0.471102442997064
+E18_3_C48,Dividing cells(Lung),0.392313317529632
+E18_3_C48,Clara Cell(Lung),0.38697354211994
+E18_3_C48,Ciliated cell(Lung),0.357339648072089
+E18_3_C48,Epithelial cell_Sftpc high(Fetal_Lung),0.326402580126834
+E18_3_C48,Stromal cell_Inmt high(Lung),0.307501526611135
+E18_3_C48,Epithelial Cells(Lung-Mesenchyme),0.26979894729471
+E18_3_C48,Stromal cell_Inmt high(Lung-Mesenchyme),0.21917605676629
+E18_3_C48,Stromal cell_Aspn high(Lung-Mesenchyme),0.216620979937652
+E18_3_C48,Ependymocytes(Arc-Me),0.189363487998392
+E18_1_C33,AT1 Cell(Lung),0.491835569134135
+E18_1_C33,AT2 Cell(Lung),0.482671188051943
+E18_1_C33,Alveolar bipotent progenitor(Lung),0.45375331468652
+E18_1_C33,Dividing cells(Lung),0.382788918033677
+E18_1_C33,Clara Cell(Lung),0.368955551078352
+E18_1_C33,Epithelial cell_Sftpc high(Fetal_Lung),0.340290475940723
+E18_1_C33,Ciliated cell(Lung),0.338193757665411
+E18_1_C33,Stromal cell_Inmt high(Lung),0.296083675759196
+E18_1_C33,Epithelial Cells(Lung-Mesenchyme),0.282291595172455
+E18_1_C33,Stromal cell_Aspn high(Lung-Mesenchyme),0.221187194341301
+E18_1_C33,Stromal cell_Inmt high(Lung-Mesenchyme),0.217153900819081
+E18_1_C33,Ependymocytes(Arc-Me),0.195811928438344
+E18_2_C11,AT2 Cell(Lung),0.525151912709241
+E18_2_C11,Alveolar bipotent progenitor(Lung),0.469393931876876
+E18_2_C11,AT1 Cell(Lung),0.435225793941525
+E18_2_C11,Dividing cells(Lung),0.423395697625501
+E18_2_C11,Clara Cell(Lung),0.384235963735229
+E18_2_C11,Ciliated cell(Lung),0.339731556762255
+E18_2_C11,Epithelial cell_Sftpc high(Fetal_Lung),0.320716220435153
+E18_2_C11,Stromal cell_Inmt high(Lung),0.277170111657041
+E18_2_C11,Epithelial Cells(Lung-Mesenchyme),0.169701470606685
+E18_2_C11,Stromal cell_Inmt high(Lung-Mesenchyme),0.125602939270097
+E18_2_C11,Stromal cell_Aspn high(Lung-Mesenchyme),0.122302542744501
+E18_2_C11,Ependymocytes(Arc-Me),0.117836376542872
+E18_3_C26,AT2 Cell(Lung),0.507648302223327
+E18_3_C26,Alveolar bipotent progenitor(Lung),0.422715126809819
+E18_3_C26,Dividing cells(Lung),0.393249189383241
+E18_3_C26,Clara Cell(Lung),0.379430404621953
+E18_3_C26,AT1 Cell(Lung),0.365933469098255
+E18_3_C26,Ciliated cell(Lung),0.340371495075045
+E18_3_C26,Epithelial cell_Sftpc high(Fetal_Lung),0.322881201722035
+E18_3_C26,Stromal cell_Inmt high(Lung),0.272985579596427
+E18_3_C26,Epithelial Cells(Lung-Mesenchyme),0.211224262828692
+E18_3_C26,Ependymocytes(Arc-Me),0.177239400133961
+E18_3_C26,Stromal cell_Inmt high(Lung-Mesenchyme),0.170627140176728
+E18_3_C26,Stromal cell_Aspn high(Lung-Mesenchyme),0.16914238141283
+E18_3_C82,AT2 Cell(Lung),0.485268865462897
+E18_3_C82,Alveolar bipotent progenitor(Lung),0.441255507456763
+E18_3_C82,Dividing cells(Lung),0.383139473184987
+E18_3_C82,Clara Cell(Lung),0.370996222808892
+E18_3_C82,AT1 Cell(Lung),0.364874250012044
+E18_3_C82,Ciliated cell(Lung),0.337955664991818
+E18_3_C82,Epithelial cell_Sftpc high(Fetal_Lung),0.316451157521155
+E18_3_C82,Stromal cell_Inmt high(Lung),0.275228764462963
+E18_3_C82,Epithelial Cells(Lung-Mesenchyme),0.19201957005552
+E18_3_C82,Ependymocytes(Arc-Me),0.174242427730889
+E18_3_C82,Stromal cell_Inmt high(Lung-Mesenchyme),0.172944933448946
+E18_3_C82,Stromal cell_Aspn high(Lung-Mesenchyme),0.167772965413839
+E18_1_C45,AT2 Cell(Lung),0.479104403342866
+E18_1_C45,Alveolar bipotent progenitor(Lung),0.447364858085373
+E18_1_C45,Dividing cells(Lung),0.384749512269471
+E18_1_C45,AT1 Cell(Lung),0.361326578270666
+E18_1_C45,Clara Cell(Lung),0.361081253395465
+E18_1_C45,Epithelial cell_Sftpc high(Fetal_Lung),0.332934491180831
+E18_1_C45,Ciliated cell(Lung),0.328979999408183
+E18_1_C45,Stromal cell_Inmt high(Lung),0.26844657472893
+E18_1_C45,Epithelial Cells(Lung-Mesenchyme),0.186857777930615
+E18_1_C45,Stromal cell_Inmt high(Lung-Mesenchyme),0.167254530360251
+E18_1_C45,Stromal cell_Aspn high(Lung-Mesenchyme),0.161615527298412
+E18_1_C45,Ependymocytes(Arc-Me),0.146942054723897
+E18_2_C72,AT2 Cell(Lung),0.454451581272215
+E18_2_C72,Alveolar bipotent progenitor(Lung),0.407387030331769
+E18_2_C72,Dividing cells(Lung),0.359168091970954
+E18_2_C72,AT1 Cell(Lung),0.344135776758126
+E18_2_C72,Clara Cell(Lung),0.333104220278284
+E18_2_C72,Ciliated cell(Lung),0.293014100404931
+E18_2_C72,Epithelial cell_Sftpc high(Fetal_Lung),0.257719086658096
+E18_2_C72,Stromal cell_Inmt high(Lung),0.23624802033964
+E18_2_C72,Epithelial Cells(Lung-Mesenchyme),0.149728486650313
+E18_2_C72,Stromal cell_Inmt high(Lung-Mesenchyme),0.111612146295488
+E18_2_C72,Stromal cell_Aspn high(Lung-Mesenchyme),0.101440021289719
+E18_2_C72,Ependymocytes(Arc-Me),0.0858978274443921
+E18_1_C44,AT2 Cell(Lung),0.434882865847895
+E18_1_C44,Alveolar bipotent progenitor(Lung),0.377070620505821
+E18_1_C44,Dividing cells(Lung),0.346733758716523
+E18_1_C44,AT1 Cell(Lung),0.33007621602738
+E18_1_C44,Clara Cell(Lung),0.316401023333498
+E18_1_C44,Ciliated cell(Lung),0.295322115954221
+E18_1_C44,Epithelial cell_Sftpc high(Fetal_Lung),0.266063004322047
+E18_1_C44,Stromal cell_Inmt high(Lung),0.236488035692529
+E18_1_C44,Epithelial Cells(Lung-Mesenchyme),0.133421097053618
+E18_1_C44,Ependymocytes(Arc-Me),0.132222511148951
+E18_1_C44,Stromal cell_Aspn high(Lung-Mesenchyme),0.125098622486596
+E18_1_C44,Stromal cell_Inmt high(Lung-Mesenchyme),0.123230729847861
+E18_1_C08,AT2 Cell(Lung),0.485966438261515
+E18_1_C08,Alveolar bipotent progenitor(Lung),0.427753860225422
+E18_1_C08,Dividing cells(Lung),0.391448770040119
+E18_1_C08,Clara Cell(Lung),0.370899331723109
+E18_1_C08,AT1 Cell(Lung),0.350576737081349
+E18_1_C08,Ciliated cell(Lung),0.328021913836978
+E18_1_C08,Epithelial cell_Sftpc high(Fetal_Lung),0.326449992457898
+E18_1_C08,Stromal cell_Inmt high(Lung),0.249554648310782
+E18_1_C08,Epithelial Cells(Lung-Mesenchyme),0.158547384467386
+E18_1_C08,Ependymocytes(Arc-Me),0.144713448531406
+E18_1_C08,Stromal cell_Inmt high(Lung-Mesenchyme),0.130457702741105
+E18_1_C08,Stromal cell_Aspn high(Lung-Mesenchyme),0.130052245420138
+E18_1_C11,AT2 Cell(Lung),0.474339707121131
+E18_1_C11,Alveolar bipotent progenitor(Lung),0.41011628963322
+E18_1_C11,Dividing cells(Lung),0.374576877783577
+E18_1_C11,Clara Cell(Lung),0.366342276884551
+E18_1_C11,Epithelial cell_Sftpc high(Fetal_Lung),0.34310897901065
+E18_1_C11,AT1 Cell(Lung),0.325813647799738
+E18_1_C11,Ciliated cell(Lung),0.318739976491003
+E18_1_C11,Stromal cell_Inmt high(Lung),0.250228444055579
+E18_1_C11,Epithelial Cells(Lung-Mesenchyme),0.179470333893751
+E18_1_C11,Stromal cell_Inmt high(Lung-Mesenchyme),0.158623398105853
+E18_1_C11,Ependymocytes(Arc-Me),0.158073554542957
+E18_1_C11,Stromal cell_Aspn high(Lung-Mesenchyme),0.156358438259495
+E18_3_C41,AT2 Cell(Lung),0.465500578422432
+E18_3_C41,Alveolar bipotent progenitor(Lung),0.38813753788594
+E18_3_C41,Dividing cells(Lung),0.367756295387845
+E18_3_C41,Clara Cell(Lung),0.338350911890752
+E18_3_C41,AT1 Cell(Lung),0.329218996275828
+E18_3_C41,Epithelial cell_Sftpc high(Fetal_Lung),0.319218329618702
+E18_3_C41,Ciliated cell(Lung),0.278727221794113
+E18_3_C41,Stromal cell_Inmt high(Lung),0.236792908463186
+E18_3_C41,Epithelial Cells(Lung-Mesenchyme),0.163340522966139
+E18_3_C41,Ependymocytes(Arc-Me),0.152784756786286
+E18_3_C41,Stromal cell_Inmt high(Lung-Mesenchyme),0.131613746097046
+E18_3_C41,Stromal cell_Aspn high(Lung-Mesenchyme),0.11993050755868
+E18_1_C13,AT2 Cell(Lung),0.47999644132532
+E18_1_C13,Alveolar bipotent progenitor(Lung),0.421284042406636
+E18_1_C13,Clara Cell(Lung),0.363394431497404
+E18_1_C13,Dividing cells(Lung),0.362868405561375
+E18_1_C13,AT1 Cell(Lung),0.327433177760193
+E18_1_C13,Ciliated cell(Lung),0.310552178292413
+E18_1_C13,Epithelial cell_Sftpc high(Fetal_Lung),0.300745598030395
+E18_1_C13,Stromal cell_Inmt high(Lung),0.227295903344841
+E18_1_C13,Epithelial Cells(Lung-Mesenchyme),0.133245980972999
+E18_1_C13,Ependymocytes(Arc-Me),0.129086904250944
+E18_1_C13,Stromal cell_Inmt high(Lung-Mesenchyme),0.123297965698882
+E18_1_C13,Stromal cell_Aspn high(Lung-Mesenchyme),0.111650304941164
