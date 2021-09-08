@@ -1,3 +1,6 @@
+# 清空环境
+rm(list = ls())
+
 library(ChAMP, quietly = TRUE)
 library(doParallel)
 detectCores()
