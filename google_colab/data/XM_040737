@@ -1,0 +1,108 @@
+LOCUS       XM_040737    1433 bp    mRNA            PRI       16-OCT-2001
+DEFINITION  Homo sapiens matrix metalloproteinase 3 (stromelysin 1,
+            progelatinase) (MMP3), mRNA.
+ACCESSION   XM_040737
+VERSION     XM_040737.1  GI:14770231
+KEYWORDS    .
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1433)
+  AUTHORS   NCBI Annotation Project.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2001) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+FEATURES             Location/Qualifiers
+     source          1..1433
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+     gene            1..1433
+                     /gene="MMP3"
+                     /note="SL-1; STMY; STR1; STMY1; Located on Accession
+                     NT_009151"
+                     /db_xref="LocusID:4314"
+                     /db_xref="MIM:185250"
+     CDS             198..1433
+                     /gene="MMP3"
+                     /note="Located on Accession NT_009151"
+                     /codon_start=1
+                     /product="matrix metalloproteinase 3"
+                     /protein_id="XP_040737.1"
+                     /db_xref="GI:14770232"
+                     /translation="MQKFLGLEVTGKLDSDTLEVMRKPRCGVPDVGHFRTFPGIPKWR
+                     KTHLTYRIVNYTPDLPKDAVDSAVEKALKVWEEVTPLTFSRLYEGEADIMISFAVREH
+                     GDFYPFDGPGNVLAHAYAPGPGINGDAHFDDDEQWTKDTTGTNLFLVAAHEIGHSLGL
+                     FHSANTEALMYPLYHSLTDLTRFRLSQDDINGIQSLYGPPPDSPETPLVPTEPVPPEP
+                     GTPANCDPALSFDAVSTLRGEILIFKDRHFWRKSLRKLEPELHLISSFWPSLPSGVDA
+                     AYEVTSKDLVFIFKGNQFWAIRGNEVRAGYPRGIHTLGFPPTVRKIDAAISDKEKNKT
+                     YFFVEDKYWRFDEKRNSMEPGFPKQIAEDFPGIDSKIDAVFEEFGFFYFFTGSSQLEF
+                     DPNAKKVTHTLKSNSWLNC"
+     misc_feature    198..611
+                     /note="Peptidase_M10; Region: Matrixin. The members of
+                     this family are enzymes that cleave peptides. These
+                     proteases require zinc for catalysis"
+     misc_feature    312..794
+                     /note="ZnMc; Region: Zinc-dependent metalloprotease"
+     misc_feature    321..683
+                     /note="Astacin; Region: Astacin (Peptidase family M12A).
+                     The members of this family are enzymes that cleave
+                     peptides. These proteases require zinc for catalysis.
+                     Members of this family contain two conserved disulphide
+                     bridges"
+     misc_feature    642..764
+                     /note="Fragilysin; Region: Fragilysin metallopeptidase
+                     (M10C) enterotoxin"
+     misc_feature    885..998
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    885..1013
+                     /note="HX; Region: Hemopexin-like repeats"
+     misc_feature    1017..1148
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    1161..1289
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    1161..1304
+                     /note="HX; Region: Hemopexin-like repeats"
+BASE COUNT      390 a    325 c    336 g    382 t
+ORIGIN      
+        1 atgaagagtc ttccaatcct actgttgctg tgcgtggcag tttgctcagc ctatccattg
+       61 gatggagctg caaggggtga ggacaccagc atgaaccttg ttcagaatat ctagaaaact
+      121 actacgacct cgaaaaagat gtgaaacagt ttgttaggag aaaggacagt ggtcctgttg
+      181 ttaaaaaaat ccgagaaatg cagaagttcc ttggattgga ggtgacgggg aagctggact
+      241 ccgacactct ggaggtgatg cgcaagccca ggtgtggagt tcctgacgtt ggtcacttca
+      301 gaacctttcc tggcatcccg aagtggagga aaacccacct tacatacagg attgtgaatt
+      361 atacaccaga tttgccaaaa gatgctgttg attctgctgt tgagaaagct ctgaaagtct
+      421 gggaagaggt gactccactc acattctcca ggctgtatga aggagaggct gatataatga
+      481 tctcttttgc agttagagaa catggagact tttacccttt tgatggacct ggaaatgttt
+      541 tggcccatgc ctatgcccct gggccaggga ttaatggaga tgcccacttt gatgatgatg
+      601 aacaatggac aaaggataca acagggacca atttatttct cgttgctgct catgaaattg
+      661 gccactccct gggtctcttt cactcagcca acactgaagc tttgatgtac ccactctatc
+      721 actcactcac agacctgact cggttccgcc tgtctcaaga tgatataaat ggcattcagt
+      781 ccctctatgg acctccccct gactcccctg agacccccct ggtacccacg gaacctgtcc
+      841 ctccagaacc tgggacgcca gccaactgtg atcctgcttt gtcctttgat gctgtcagca
+      901 ctctgagggg agaaatcctg atctttaaag acaggcactt ttggcgcaaa tccctcagga
+      961 agcttgaacc tgaattgcat ttgatctctt cattttggcc atctcttcct tcaggcgtgg
+     1021 atgccgcata tgaagttact agcaaggacc tcgttttcat ttttaaagga aatcaattct
+     1081 gggccatcag aggaaatgag gtacgagctg gatacccaag aggcatccac accctaggtt
+     1141 tccctccaac cgtgaggaaa atcgatgcag ccatttctga taaggaaaag aacaaaacat
+     1201 atttctttgt agaggacaaa tactggagat ttgatgagaa gagaaattcc atggagccag
+     1261 gctttcccaa gcaaatagct gaagactttc cagggattga ctcaaagatt gatgctgttt
+     1321 ttgaagaatt tgggttcttt tatttcttta ctggatcttc acagttggag tttgacccaa
+     1381 atgcaaagaa agtgacacac actttgaaga gtaacagctg gcttaattgt tga
+//

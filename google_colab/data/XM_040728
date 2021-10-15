@@ -1,0 +1,134 @@
+LOCUS       XM_040728    1743 bp    mRNA            PRI       10-DEC-2001
+DEFINITION  Homo sapiens matrix metalloproteinase 10 (stromelysin 2) (MMP10),
+            mRNA.
+ACCESSION   XM_040728
+VERSION     XM_040728.1  GI:14770214
+KEYWORDS    .
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1743)
+  AUTHORS   NCBI Annotation Project.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2001) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     GENOME ANNOTATION REFSEQ:  This model reference sequence was
+            predicted from NCBI contig NT_009151 by automated computational
+            analysis using gene prediction method: BLAST. 
+            Also see:
+                Documentation of NCBI's Annotation Process
+                Evidence Viewer - alignments supporting this model.
+FEATURES             Location/Qualifiers
+     source          1..1743
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+     gene            1..1743
+                     /gene="MMP10"
+                     /note="SL-2; STMY2; Located on Accession NT_009151"
+                     /db_xref="LocusID:4319"
+                     /db_xref="MIM:185260"
+     CDS             23..1453
+                     /gene="MMP10"
+                     /note="Located on Accession NT_009151"
+                     /codon_start=1
+                     /product="matrix metalloproteinase 10"
+                     /protein_id="XP_040728.1"
+                     /db_xref="GI:14770215"
+                     /translation="MMHLAFLVLLCLPVCSAYPLSGAAKEEDSNKDLAQQYLEKYYNL
+                     EKDVKQFRRKDSNLIVKKIQGMQKFLGLEVTGKLDTDTLEVMRKPRCGVPDVGHFSSF
+                     PGMPKWRKTHLTYRIVNYTPDLPRDAVDSAIEKALKVWEEVTPLTFSRLYEGEADIMI
+                     SFAVKEHGDFYSFDGPGHSLAHAYPPGPGLYGDIHFDDDEKWTEDASGTNLFLVAAHE
+                     LGHSLGLFHSANTEALMYPLYNSFTELAQFRLSQDDVNGIQSLYGPPPASTEEPLVPT
+                     KSVPSGSEMPAKCDPALSFDAISTLRGEYLFFKDRYFWRRSHWNPEPEFHLISAFWPS
+                     LPSYLDAAYEVNSRDTVFIFKGNEFWAIRGNEVQAGYPRGIHTLGFPPTIRKIDAAVS
+                     DKEKKKTYFFAADKYWRFDENSQSMEQGFPRLIADDFPGVEPKVDAVLQAFGFFYFFS
+                     GSSQFEFDPNARMVTHILKSNSWLHC"
+     misc_feature    131..631
+                     /note="Peptidase_M10; Region: Matrixin. The members of
+                     this family are enzymes that cleave peptides. These
+                     proteases require zinc for catalysis"
+     variation       complement(180)
+                     /allele="T"
+                     /allele="C"
+                     /db_xref="dbSNP:486055"
+     misc_feature    323..604
+                     /note="Methionine_synt; Region: Methionine synthase"
+     misc_feature    332..814
+                     /note="ZnMc; Region: Zinc-dependent metalloprotease"
+     misc_feature    341..703
+                     /note="Astacin; Region: Astacin (Peptidase family M12A).
+                     The members of this family are enzymes that cleave
+                     peptides. These proteases require zinc for catalysis.
+                     Members of this family contain two conserved disulphide
+                     bridges"
+     misc_feature    662..784
+                     /note="Fragilysin; Region: Fragilysin metallopeptidase
+                     (M10C) enterotoxin"
+     misc_feature    905..1033
+                     /note="HX; Region: Hemopexin-like repeats"
+     misc_feature    905..1018
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    1037..1168
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    1181..1309
+                     /note="hemopexin; Region: Hemopexin. Hemopexin is a
+                     heme-binding protein that transports heme to the liver.
+                     Hemopexin-like repeats occur in vitronectin and some
+                     matrix metallopeptidases family (matrixins). The HX
+                     repeats of some matrixins bind tissue inhibitor of
+                     metallopeptidases (TIMPs)"
+     misc_feature    1181..1318
+                     /note="HX; Region: Hemopexin-like repeats"
+     variation       complement(1525)
+                     /allele="G"
+                     /allele="C"
+                     /db_xref="dbSNP:470171"
+     variation       complement(1595)
+                     /allele="G"
+                     /allele="A"
+                     /db_xref="dbSNP:470168"
+BASE COUNT      485 a    362 c    399 g    497 t
+ORIGIN      
+        1 aaagaaggta agggcagtga gaatgatgca tcttgcattc cttgtgctgt tgtgtctgcc
+       61 agtctgctct gcctatcctc tgagtggggc agcaaaagag gaggactcca acaaggatct
+      121 tgcccagcaa tacctagaaa agtactacaa cctcgaaaag gatgtgaaac agtttagaag
+      181 aaaggacagt aatctcattg ttaaaaaaat ccaaggaatg cagaagttcc ttgggttgga
+      241 ggtgacaggg aagctagaca ctgacactct ggaggtgatg cgcaagccca ggtgtggagt
+      301 tcctgacgtt ggtcacttca gctcctttcc tggcatgccg aagtggagga aaacccacct
+      361 tacatacagg attgtgaatt atacaccaga tttgccaaga gatgctgttg attctgccat
+      421 tgagaaagct ctgaaagtct gggaagaggt gactccactc acattctcca ggctgtatga
+      481 aggagaggct gatataatga tctcttttgc agttaaagaa catggagact tttactcttt
+      541 tgatggccca ggacacagtt tggctcatgc ctacccacct ggacctgggc tttatggaga
+      601 tattcacttt gatgatgatg aaaaatggac agaagatgca tcaggcacca atttattcct
+      661 cgttgctgct catgaacttg gccactccct ggggctcttt cactcagcca acactgaagc
+      721 tttgatgtac ccactctaca actcattcac agagctcgcc cagttccgcc tttcgcaaga
+      781 tgatgtgaat ggcattcagt ctctctacgg acctccccct gcctctactg aggaacccct
+      841 ggtgcccaca aaatctgttc cttcgggatc tgagatgcca gccaagtgtg atcctgcttt
+      901 gtccttcgat gccatcagca ctctgagggg agaatatctg ttctttaaag acagatattt
+      961 ttggcgaaga tcccactgga accctgaacc tgaatttcat ttgatttctg cattttggcc
+     1021 ctctcttcca tcatatttgg atgctgcata tgaagttaac agcagggaca ccgtttttat
+     1081 ttttaaagga aatgagttct gggccatcag aggaaatgag gtacaagcag gttatccaag
+     1141 aggcatccat accctgggtt ttcctccaac cataaggaaa attgatgcag ctgtttctga
+     1201 caaggaaaag aagaaaacat acttctttgc agcggacaaa tactggagat ttgatgaaaa
+     1261 tagccagtcc atggagcaag gcttccctag actaatagct gatgactttc caggagttga
+     1321 gcctaaggtt gatgctgtat tacaggcatt tggatttttc tacttcttca gtggatcatc
+     1381 acagtttgag tttgacccca atgccaggat ggtgacacac atattaaaga gtaacagctg
+     1441 gttacattgc taggcgagat agggggaaga cagatatggg tgtttttaat aaatctaata
+     1501 attattcatc taatgtatta tgagccaaaa tggttaattt ttcctgcatg ttctgtgact
+     1561 gaagaagatg agccttgcag atatctgcat gtgtcatgaa gaatgtttct ggaattcttc
+     1621 acttgctttt gaattgcact gaacagaatt aagaaatact catgtgcaat aggtgagaga
+     1681 atgtattttc atagatgtgt tattacttcc tcaataaaaa gttttatttt gggcctgttc
+     1741 ctt
+//
